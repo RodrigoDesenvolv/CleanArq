@@ -1,5 +1,4 @@
 ﻿using Business.Strategy.ETO.Domain.Shared.Services.Entities;
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 
